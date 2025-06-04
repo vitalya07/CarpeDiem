@@ -703,6 +703,8 @@ footer {
     color: #fff;
     margin-bottom: 20px;
     font-size: 20px;
+    font-family: 'TildaSansSemibold', sans-serif;
+    font-weight: 600;
 }
 .header_nav-tabs > li > a {
     color: #fff;
